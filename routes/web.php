@@ -14,6 +14,6 @@ Route::get('/', function () {
             'tags' => '/api/v1/tags',
             'health' => '/health',
         ],
-        'documentation' => 'https://github.com/jordanpartridge/know-api',
+        'documentation' => 'https://github.com/shadetheory/know-api',
     ]);
 });

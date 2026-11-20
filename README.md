@@ -2,8 +2,8 @@
 
 A Laravel-based knowledge management API for capturing, organizing, and searching development knowledge with git context tracking.
 
-[![CI](https://github.com/jordanpartridge/know-api/workflows/CI/badge.svg)](https://github.com/jordanpartridge/know-api/actions)
-[![Tests](https://img.shields.io/badge/tests-22%20passed-green)](https://github.com/jordanpartridge/know-api)
+[![CI](https://github.com/shadetheory/know-api/workflows/CI/badge.svg)](https://github.com/shadetheory/know-api/actions)
+[![Tests](https://img.shields.io/badge/tests-22%20passed-green)](https://github.com/shadetheory/know-api)
 
 ## Features
 
@@ -55,7 +55,7 @@ GET /api/v1/search/knowledge?q=term   # Search knowledge by content
 ### Setup
 ```bash
 # Clone repository
-git clone https://github.com/jordanpartridge/know-api.git
+git clone https://github.com/shadetheory/know-api.git
 cd know-api
 
 # Install dependencies
